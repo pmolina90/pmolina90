@@ -19,7 +19,7 @@ const paul = {
                         Language: "React Native",
                         Platform: "Azure"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on react, typescript and Python"
 }
 ```
 
